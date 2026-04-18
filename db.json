@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple MacBook Air M2",
+      "category": "Electronics",
+      "price": 1199,
+      "stock": 15,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "2",
+      "name": "Logitech MX Master 3S",
+      "category": "Accessories",
+      "price": 99,
+      "stock": 45,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM5 Headphones",
+      "category": "Electronics",
+      "price": 348,
+      "stock": 10,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "4",
+      "name": "Mechanical Keyboard K2",
+      "category": "Accessories",
+      "price": 85,
+      "stock": 25,
+      "image": "https://picsum.photos"
+    },
+    {
+      "id": "5",
+      "name": "Dell UltraSharp 27 Monitor",
+      "category": "Electronics",
+      "price": 540,
+      "stock": 8,
+      "image": "https://picsum.photos"
+    }
+  ]
+}

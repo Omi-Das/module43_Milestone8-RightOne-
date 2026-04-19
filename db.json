@@ -85,6 +85,72 @@
         "price": 39.95,
         "currency": "USD"
       }
+    },
+    {
+    "id": "978-0596517747",
+    "title": "JavaScript: The Good Parts",
+    "authors": ["Douglas Crockford"],
+    "publisher": "O'Reilly Media",
+    "published_date": "2008-05-01",
+    "isbn_13": "978-0596517747",
+    "page_count": 176,
+    "categories": ["Programming", "JavaScript"],
+    "language": "en",
+    "metrics": {
+      "average_rating": 4.5,
+      "ratings_count": 2500,
+      "units_sold": 50000,
+      "gross_sales": 1500000.00
+    },
+    "availability": {
+      "status": "In Stock",
+      "price": 29.99,
+      "currency": "USD"
     }
+  },
+  {
+    "id": "978-0132350884",
+    "title": "Clean Code",
+    "authors": ["Robert C. Martin"],
+    "publisher": "Prentice Hall",
+    "published_date": "2008-08-01",
+    "isbn_13": "978-0132350884",
+    "page_count": 464,
+    "categories": ["Software Engineering"],
+    "language": "en",
+    "metrics": {
+      "average_rating": 4.8,
+      "ratings_count": 4100,
+      "units_sold": 120000,
+      "gross_sales": 4800000.00
+    },
+    "availability": {
+      "status": "In Stock",
+      "price": 39.99,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "978-0134494166",
+    "title": "Clean Architecture",
+    "authors": ["Robert C. Martin"],
+    "publisher": "Prentice Hall",
+    "published_date": "2017-09-10",
+    "isbn_13": "978-0134494166",
+    "page_count": 432,
+    "categories": ["Software Design"],
+    "language": "en",
+    "metrics": {
+      "average_rating": 4.7,
+      "ratings_count": 1800,
+      "units_sold": 85000,
+      "gross_sales": 3400000.00
+    },
+    "availability": {
+      "status": "Out of Stock",
+      "price": 34.99,
+      "currency": "USD"
+    }
+  }
   ]
 }

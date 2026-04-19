@@ -10,7 +10,7 @@
     },
     {
       "id": "2",
-      "name": "Logitech MX Master 3S",
+      "name": "LogiTech MX Master 3S",
       "category": "Accessories",
       "price": 99,
       "stock": 45,
@@ -26,7 +26,7 @@
     },
     {
       "id": "4",
-      "name": "Mechanical Keyboard K2",
+      "name": "MechaniCS Keyboard K2 & k3",
       "category": "Accessories",
       "price": 85,
       "stock": 25,
@@ -34,11 +34,57 @@
     },
     {
       "id": "5",
-      "name": "Dell UltraSharp 27 Monitor",
+      "name": "Dell UltraSharp 27 Monitors",
       "category": "Electronics",
       "price": 540,
       "stock": 8,
       "image": "https://picsum.photos"
+    }
+  ],
+  "books": [
+    {
+      "id": "978-0143127550",
+      "title": "Beginning JSON",
+      "authors": ["Ben Smith"],
+      "publisher": "Apress",
+      "published_date": "2015-02-26",
+      "isbn_13": "978-1484202029",
+      "page_count": 324,
+      "categories": ["Computers", "Technology"],
+      "language": "en",
+      "metrics": {
+        "average_rating": 4.2,
+        "ratings_count": 150,
+        "units_sold": 5000,
+        "gross_sales": 125000.0
+      },
+      "availability": {
+        "status": "In Stock",
+        "price": 24.99,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "978-1119391000",
+      "title": "JavaScript and Open Data",
+      "authors": ["Robert Jeansoulin"],
+      "publisher": "John Wiley & Sons",
+      "published_date": "2018-09-04",
+      "isbn_13": "978-1119391000",
+      "page_count": 272,
+      "categories": ["Computers", "Data Science"],
+      "language": "en",
+      "metrics": {
+        "average_rating": 4.5,
+        "ratings_count": 85,
+        "units_sold": 3200,
+        "gross_sales": 80000.0
+      },
+      "availability": {
+        "status": "Limited Stock",
+        "price": 39.95,
+        "currency": "USD"
+      }
     }
   ]
 }
